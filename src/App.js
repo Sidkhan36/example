@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Live React Website Publised hosted on Github 
         </a>
       </header>
     </div>
